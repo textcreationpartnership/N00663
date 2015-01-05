@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000806_0000_0FAA4A2BAAA71910"/>
-            <pb facs="tcp:000806_0001_0FAA4A2C26EDFCF8" rendition="simple:additions"/>
+            <pb facs="unknown:000806_0000_0FAA4A2BAAA71910"/>
+            <pb facs="unknown:000806_0001_0FAA4A2C26EDFCF8"
+                rendition="simple:additions"/>
             <head>
                <figure/> By His Excellency Collonel <hi>Benjamin Fletcher</hi> Captain General and Governour in Chief of his Majeſties Province of <hi>New-York, &amp;c.</hi> A PROCLAMATION</head>
             <p>WHereas there is of late great Scarcity of Br<gap reason="illegible: indecipherable" extent="2 letters">
